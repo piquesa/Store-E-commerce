@@ -15,7 +15,8 @@
 	<description>Sistema Carrito de Compras Online está desarrollado con Java 21 utilizando el framework Spring Boot y la gestión de dependencias mediante Maven</description>
 	<url/>
 	<licenses>
-	//Esto es una pràctica
+	 <!-- Esto es una pràctica -->
+	
 		<license/>
 	</licenses>
 	<developers>
